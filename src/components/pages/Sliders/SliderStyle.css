@@ -1,0 +1,24 @@
+.caption1  {
+  display: flex;
+  width: 550px;
+  left: 35%;
+  top: 40% !important;
+  transform: translateY(-50%);
+  text-align: left;
+  bottom: initial;
+  
+  }
+  @media screen and (max-width: 600px) {
+    div.example {
+      font-size: 30px;
+    }
+  }
+.caption2  {
+  display: flex;
+  width: 550px;
+  left: 15%;
+  top: 40% !important;
+  transform: translateY(-50%);
+  text-align: left;
+  bottom: initial;
+  }
